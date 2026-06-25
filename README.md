@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/akshayasree99/dsa/tree/master/0056-merge-intervals) |
 | [0455-assign-cookies](https://github.com/akshayasree99/dsa/tree/master/0455-assign-cookies) |
 | [1732-find-the-highest-altitude](https://github.com/akshayasree99/dsa/tree/master/1732-find-the-highest-altitude) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/akshayasree99/dsa/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -59,5 +60,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/akshayasree99/dsa/tree/master/0056-merge-intervals) |
 | [0455-assign-cookies](https://github.com/akshayasree99/dsa/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
