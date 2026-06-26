@@ -1,3 +1,4 @@
+///////////////////////////--------------------
 class Solution {
     public long countMajoritySubarrays(int[] nums, int target) {
         int n = nums.length;
