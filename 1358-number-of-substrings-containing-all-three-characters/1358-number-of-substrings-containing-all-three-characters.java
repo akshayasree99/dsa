@@ -1,3 +1,4 @@
+/////////////---------------------
 class Solution {
     public int numberOfSubstrings(String s) {
         int result = 0;
