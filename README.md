@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/akshayasree99/dsa/tree/master/0455-assign-cookies) |
 | [1732-find-the-highest-altitude](https://github.com/akshayasree99/dsa/tree/master/1732-find-the-highest-altitude) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/akshayasree99/dsa/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1914-cyclically-rotating-a-grid](https://github.com/akshayasree99/dsa/tree/master/1914-cyclically-rotating-a-grid) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/akshayasree99/dsa/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/akshayasree99/dsa/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/akshayasree99/dsa/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -85,4 +86,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/akshayasree99/dsa/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+## Matrix
+|  |
+| ------- |
+| [1914-cyclically-rotating-a-grid](https://github.com/akshayasree99/dsa/tree/master/1914-cyclically-rotating-a-grid) |
+## Simulation
+|  |
+| ------- |
+| [1914-cyclically-rotating-a-grid](https://github.com/akshayasree99/dsa/tree/master/1914-cyclically-rotating-a-grid) |
 <!---LeetCode Topics End-->
