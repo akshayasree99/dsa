@@ -2,7 +2,6 @@ class Solution {
     int[][] ms = {{0, 1}, {0, -1}, {1, 0}, {-1, 0}};
     public int maximumSafenessFactor(List<List<Integer>> g) {
         int n = g.size();
-        if (g.get(0).get(0) == 1 || g.get(n - 1).get(n - 1) == 1) return 0;
 
         int[][] v = new int[n][n];
         for (int[] r : v) Arrays.fill(r, -1);
