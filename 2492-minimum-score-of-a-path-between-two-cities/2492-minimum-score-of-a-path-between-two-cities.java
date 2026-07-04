@@ -1,4 +1,4 @@
-/////////////////////---------
+/////////////////////-------------
 class Solution {
     int min;
     public int minScore(int n, int[][] roads) {
