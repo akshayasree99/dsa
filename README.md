@@ -25,11 +25,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/akshayasree99/dsa/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/akshayasree99/dsa/tree/master/0066-plus-one) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/akshayasree99/dsa/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Array
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/akshayasree99/dsa/tree/master/0056-merge-intervals) |
+| [0066-plus-one](https://github.com/akshayasree99/dsa/tree/master/0066-plus-one) |
 | [0455-assign-cookies](https://github.com/akshayasree99/dsa/tree/master/0455-assign-cookies) |
 | [1288-remove-covered-intervals](https://github.com/akshayasree99/dsa/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/akshayasree99/dsa/tree/master/1301-number-of-paths-with-max-score) |
