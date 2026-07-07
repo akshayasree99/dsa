@@ -1,8 +1,7 @@
 class Solution {
     public long sumAndMultiply(int n) {
-        long x=0;
+        long x=0,a=1;
         int s=0;
-        long a=1;
         while(n>0){
             int r=n%10;
             if(r!=0){
