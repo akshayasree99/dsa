@@ -1,3 +1,4 @@
+//////////////////////----------------
 class Solution {
     static final long MOD = 1_000_000_007L;
     public int[] sumAndMultiply(String s, int[][] queries) {
