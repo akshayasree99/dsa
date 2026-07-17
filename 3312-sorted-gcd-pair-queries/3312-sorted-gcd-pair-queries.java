@@ -1,3 +1,4 @@
+////////////////----------------------------------
 class Solution {
     public int[] gcdValues(int[] nums, long[] queries) {
         int max=Arrays.stream(nums).max().orElse(0);
