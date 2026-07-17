@@ -1,7 +1,7 @@
 class Solution {
     public int[] gcdValues(int[] nums, long[] queries) {
         int max=Arrays.stream(nums).max().orElse(0);
-        long div[]=new long[max+1];// div[in] stores how many nums are divisible by 'in'.
+        long div[]=new long[max+1];
         for(int i:nums){
             for(int j=1;j*j<=i;j++){
                 if(i%j==0){
@@ -14,8 +14,7 @@ class Solution {
         }
         long pairs[]=new long[max+1];
         for(int i=max;i>0;i--){
-            pairs[i]=(div[i]*(div[i]-1))/2;//nC2
-            // remove additional pair counts
+            pairs[i]=(div[i]*(div[i]-1))/2;
             for(int j=2*i;j<=max;j+=i){
                 pairs[i]-=pairs[j];
             }
