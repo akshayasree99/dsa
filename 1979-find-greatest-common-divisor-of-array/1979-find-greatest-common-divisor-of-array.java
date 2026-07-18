@@ -1,3 +1,4 @@
+//////////////-----------
 class Solution {
     public int findGCD(int[] nums) {
 int smallest=Integer.MAX_VALUE,biggest=Integer.MIN_VALUE;
