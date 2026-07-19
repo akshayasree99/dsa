@@ -1,3 +1,4 @@
+/////////-----
 class Solution {
     public String smallestSubsequence(String s) {
         HashMap<Character,Integer> map=new HashMap<>();
