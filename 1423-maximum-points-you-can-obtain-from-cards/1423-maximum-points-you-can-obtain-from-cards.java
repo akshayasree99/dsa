@@ -2,12 +2,13 @@ class Solution {
     public int maxScore(int[] a, int k) {
         int sum=0,l=0,r=0,max=0,n=a.length;
         for(int i=0;i<k;i++) l+=a[i];
-        max=l;
+        max=l;sum=l;
         int i=k-1,j=n-1;
         while(i>=0){
-            l-=a[i];
-            r+=a[j];
-            sum=l+r;
+            l=a[i];
+            r=a[j];
+            sum-=l;
+            sum+=r;
             max=Math.max(sum,max);
             i--;
             j--;
