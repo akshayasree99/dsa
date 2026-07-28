@@ -5,13 +5,9 @@ class Solution {
         max=l;sum=l;
         int i=k-1,j=n-1;
         while(i>=0){
-            l=a[i];
-            r=a[j];
-            sum-=l;
-            sum+=r;
+            sum-=a[i--];
+            sum+=a[j--];
             max=Math.max(sum,max);
-            i--;
-            j--;
         }
         return max;
     }
