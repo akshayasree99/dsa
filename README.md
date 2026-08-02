@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/akshayasree99/dsa/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/akshayasree99/dsa/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/akshayasree99/dsa/tree/master/0877-stone-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/akshayasree99/dsa/tree/master/1301-number-of-paths-with-max-score) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/akshayasree99/dsa/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/akshayasree99/dsa/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/akshayasree99/dsa/tree/master/0066-plus-one) |
 | [0486-predict-the-winner](https://github.com/akshayasree99/dsa/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/akshayasree99/dsa/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/akshayasree99/dsa/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/akshayasree99/dsa/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/akshayasree99/dsa/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/akshayasree99/dsa/tree/master/3312-sorted-gcd-pair-queries) |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/akshayasree99/dsa/tree/master/0455-assign-cookies) |
 | [0486-predict-the-winner](https://github.com/akshayasree99/dsa/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/akshayasree99/dsa/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/akshayasree99/dsa/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/akshayasree99/dsa/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/akshayasree99/dsa/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/akshayasree99/dsa/tree/master/1004-max-consecutive-ones-iii) |
@@ -332,4 +335,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/akshayasree99/dsa/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/akshayasree99/dsa/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
