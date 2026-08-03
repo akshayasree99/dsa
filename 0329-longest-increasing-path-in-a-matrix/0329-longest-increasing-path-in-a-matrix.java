@@ -6,7 +6,7 @@ class Solution {
         int max=1;
         n=mat.length;
         m=mat[0].length;
-        dp=new int[n][m];
+        dp=new int[n+1][m+1];
         for(int i=0;i<n;i++){
             for(int j=0;j<m;j++){
                 max=Math.max(max,solve(mat,i,j));
