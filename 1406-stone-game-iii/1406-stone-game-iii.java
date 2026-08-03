@@ -1,29 +1,16 @@
-////////////----------
 class Solution {
     public String stoneGameIII(int[] stoneValue) {
-        int n = stoneValue.length;
-        int[] dp = new int[3];
-
-        for (int i = n - 1; i >= 0; i--) {
-            int takeOne = stoneValue[i] - dp[(i + 1) % 3];
-
-            int takeTwo = Integer.MIN_VALUE;
-            if (i + 1 < n)
-                takeTwo = stoneValue[i] + stoneValue[i + 1] - dp[(i + 2) % 3];
-
-            int takeThree = Integer.MIN_VALUE;
-            if (i + 2 < n)
-                takeThree = stoneValue[i] + stoneValue[i + 1] + stoneValue[i + 2] - dp[(i + 3) % 3];
-
-            dp[i % 3] = Math.max(Math.max(takeOne, takeTwo), takeThree);
+        int n = stoneValue.length,total = 0;
+        int[] dp = {0, 0, 0};
+        for (int i=n-1;i>=0;i--) {
+            total+=stoneValue[i];
+            int curr=Math.max(total-dp[0],Math.max(total-dp[1],total-dp[2]));
+            dp[2] = dp[1];
+            dp[1] = dp[0];
+            dp[0] = curr;
         }
-
-        int value = dp[0];
-        if (value > 0)
-            return "Alice";
-        else if (value < 0)
-            return "Bob";
-        else
-            return "Tie";
+        if (dp[0]>total-dp[0]) return "Alice";
+        else if (dp[0]<total-dp[0]) return "Bob";
+        else return "Tie";
     }
 }
