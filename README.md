@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/akshayasree99/dsa/tree/master/0044-wildcard-matching) |
 | [0062-unique-paths](https://github.com/akshayasree99/dsa/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/akshayasree99/dsa/tree/master/0063-unique-paths-ii) |
 | [0198-house-robber](https://github.com/akshayasree99/dsa/tree/master/0198-house-robber) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/akshayasree99/dsa/tree/master/0044-wildcard-matching) |
 | [0334-increasing-triplet-subsequence](https://github.com/akshayasree99/dsa/tree/master/0334-increasing-triplet-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/akshayasree99/dsa/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/akshayasree99/dsa/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/akshayasree99/dsa/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/akshayasree99/dsa/tree/master/0013-roman-to-integer) |
+| [0044-wildcard-matching](https://github.com/akshayasree99/dsa/tree/master/0044-wildcard-matching) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/akshayasree99/dsa/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/akshayasree99/dsa/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/akshayasree99/dsa/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -358,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/akshayasree99/dsa/tree/master/0044-wildcard-matching) |
 | [0486-predict-the-winner](https://github.com/akshayasree99/dsa/tree/master/0486-predict-the-winner) |
 ## Game Theory
 |  |
