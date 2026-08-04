@@ -6,9 +6,7 @@ class Solution {
         if(n==1) return dp[0];
         dp[1]=Math.max(nums[0],nums[1]);
         for(int i=2;i<n;i++){
-            int x=nums[i]+dp[i-2];
-            int y=dp[i-1];
-            dp[i]=Math.max(x,y);
+            dp[i]=Math.max(nums[i]+dp[i-2],dp[i-1]);
         }
         return dp[n-1];
     }
