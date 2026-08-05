@@ -1,3 +1,4 @@
+//////////////----------------
 class Solution {
     public List<Integer> remainingMethods(int n, int k, int[][] invocations) {
         List<Integer>[] adj = new ArrayList[n];
