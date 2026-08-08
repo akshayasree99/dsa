@@ -394,4 +394,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/akshayasree99/dsa/tree/master/3348-smallest-divisible-digit-product-ii) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/akshayasree99/dsa/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/akshayasree99/dsa/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
