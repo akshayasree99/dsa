@@ -1,13 +1,13 @@
 /////////---------------
 class Solution {
-    TreeSet<Integer> starts = new TreeSet<>();  // boundary positions + sentinel n
-    TreeMap<Integer, Integer> lens = new TreeMap<>();  // multiset of gap lengths
+    TreeSet<Integer> starts = new TreeSet<>(); 
+    TreeMap<Integer, Integer> lens = new TreeMap<>();  
     char[] s;
 
     public int[] longestRepeating(String S, String queryCharacters, int[] queryIndices) {
         s = S.toCharArray();
         int n = s.length;
-        for (int i = 0, j = 0; i < n; i = j) {  // groupby(s)
+        for (int i = 0, j = 0; i < n; i = j) {  
             while (j < n && s[j] == s[i]) j++;
             starts.add(i);
             addLen(j - i);
