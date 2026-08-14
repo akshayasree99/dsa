@@ -1,3 +1,4 @@
+/////////---------------
 class Solution {
     TreeSet<Integer> starts = new TreeSet<>();  // boundary positions + sentinel n
     TreeMap<Integer, Integer> lens = new TreeMap<>();  // multiset of gap lengths
