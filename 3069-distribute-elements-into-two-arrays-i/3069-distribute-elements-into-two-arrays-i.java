@@ -1,3 +1,4 @@
+/////////////////----------------
 class Solution {
     public int[] resultArray(int[] nums) {
         int[] arr1 = new int[nums.length];
