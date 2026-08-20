@@ -16,9 +16,7 @@ class Solution {
         }
         int[] result = new int[nums.length];
         System.arraycopy(arr1, 0, result, 0, size1);
-
         System.arraycopy(arr2, 0, result, size1, size2);
-
         return result;
     }
 }
