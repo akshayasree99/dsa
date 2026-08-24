@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/akshayasree99/dsa/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0435-non-overlapping-intervals](https://github.com/akshayasree99/dsa/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/akshayasree99/dsa/tree/master/0486-predict-the-winner) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/akshayasree99/dsa/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0877-stone-game](https://github.com/akshayasree99/dsa/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/akshayasree99/dsa/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/akshayasree99/dsa/tree/master/1301-number-of-paths-with-max-score) |
@@ -317,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/akshayasree99/dsa/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0207-course-schedule](https://github.com/akshayasree99/dsa/tree/master/0207-course-schedule) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/akshayasree99/dsa/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/akshayasree99/dsa/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0994-rotting-oranges](https://github.com/akshayasree99/dsa/tree/master/0994-rotting-oranges) |
 | [2258-escape-the-spreading-fire](https://github.com/akshayasree99/dsa/tree/master/2258-escape-the-spreading-fire) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/akshayasree99/dsa/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -334,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/akshayasree99/dsa/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/akshayasree99/dsa/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/akshayasree99/dsa/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/akshayasree99/dsa/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -343,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/akshayasree99/dsa/tree/master/0207-course-schedule) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/akshayasree99/dsa/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/akshayasree99/dsa/tree/master/0787-cheapest-flights-within-k-stops) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/akshayasree99/dsa/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/akshayasree99/dsa/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/akshayasree99/dsa/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -353,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Shortest Path
 |  |
 | ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/akshayasree99/dsa/tree/master/0787-cheapest-flights-within-k-stops) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/akshayasree99/dsa/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/akshayasree99/dsa/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
@@ -396,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/akshayasree99/dsa/tree/master/0145-binary-tree-postorder-traversal) |
 | [0207-course-schedule](https://github.com/akshayasree99/dsa/tree/master/0207-course-schedule) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/akshayasree99/dsa/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/akshayasree99/dsa/tree/master/0787-cheapest-flights-within-k-stops) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/akshayasree99/dsa/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/akshayasree99/dsa/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/akshayasree99/dsa/tree/master/3310-remove-methods-from-project) |
