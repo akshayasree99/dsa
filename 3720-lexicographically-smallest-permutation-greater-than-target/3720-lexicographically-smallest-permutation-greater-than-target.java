@@ -8,13 +8,10 @@ class Solution {
             cnt[c - 'a']++;
         }
 
-        // Rightmost position is preferred.
         for (int i = n - 1; i >= 0; i--) {
 
-            // Rebuild the frequency array for this pivot.
             int[] remain = cnt.clone();
 
-            // Try to keep target[0 ... i-1] unchanged.
             boolean possible = true;
 
             for (int j = 0; j < i; j++) {
