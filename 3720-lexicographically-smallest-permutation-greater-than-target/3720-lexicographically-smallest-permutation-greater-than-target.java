@@ -41,7 +41,6 @@ class Solution {
 
                 remain[c]--;
 
-                // Fill the rest in sorted order.
                 for (int x = 0; x < 26; x++) {
                     for (int t = 0; t < remain[x]; t++) {
                         ans.append((char) ('a' + x));
