@@ -9,18 +9,14 @@ class Solution {
         for (int i = n - 1; i >= 0; i--) {
             int[] remain = cnt.clone();
             boolean possible = true;
-
             for (int j = 0; j < i; j++) {
                 int x = target.charAt(j) - 'a';
-
                 if (remain[x] == 0) {
                     possible = false;
                     break;
                 }
-
                 remain[x]--;
             }
-
             if (!possible)
                 continue;
 
