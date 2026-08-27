@@ -23,23 +23,17 @@ class Solution {
             for (int c = targetChar + 1; c < 26; c++) {
                 if (remain[c] == 0)
                     continue;
-
                 StringBuilder ans = new StringBuilder(target.substring(0, i));
-
                 ans.append((char) ('a' + c));
-
                 remain[c]--;
-
                 for (int x = 0; x < 26; x++) {
                     for (int t = 0; t < remain[x]; t++) {
                         ans.append((char) ('a' + x));
                     }
                 }
-
                 return ans.toString();
             }
         }
-
         return "";
     }
 }
