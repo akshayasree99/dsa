@@ -19,11 +19,8 @@ class Solution {
             }
             if (!possible)
                 continue;
-
             int targetChar = target.charAt(i) - 'a';
-
             for (int c = targetChar + 1; c < 26; c++) {
-
                 if (remain[c] == 0)
                     continue;
 
