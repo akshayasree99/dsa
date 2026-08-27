@@ -2,17 +2,12 @@
 class Solution {
     public String lexGreaterPermutation(String s, String target) {
         int n = s.length();
-
         int[] cnt = new int[26];
-
         for (char c : s.toCharArray()) {
             cnt[c - 'a']++;
         }
-
         for (int i = n - 1; i >= 0; i--) {
-
             int[] remain = cnt.clone();
-
             boolean possible = true;
 
             for (int j = 0; j < i; j++) {
