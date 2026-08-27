@@ -28,8 +28,6 @@ class Solution {
             if (!possible)
                 continue;
 
-            // At position i, we need the smallest
-            // available character strictly greater than target[i].
             int targetChar = target.charAt(i) - 'a';
 
             for (int c = targetChar + 1; c < 26; c++) {
@@ -39,7 +37,6 @@ class Solution {
 
                 StringBuilder ans = new StringBuilder(target.substring(0, i));
 
-                // Make the first difference here.
                 ans.append((char) ('a' + c));
 
                 remain[c]--;
