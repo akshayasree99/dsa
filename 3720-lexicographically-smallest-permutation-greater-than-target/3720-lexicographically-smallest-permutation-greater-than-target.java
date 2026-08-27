@@ -2,14 +2,12 @@ class Solution {
     public String lexGreaterPermutation(String s, String target) {
         int n = s.length();
 
-        // Frequency of characters in s
         int[] cnt = new int[26];
 
         for (char c : s.toCharArray()) {
             cnt[c - 'a']++;
         }
 
-        // Try the position where we make the string greater.
         // Rightmost position is preferred.
         for (int i = n - 1; i >= 0; i--) {
 
