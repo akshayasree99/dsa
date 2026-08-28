@@ -1,11 +1,9 @@
 class Solution {
     public String lexPalindromicPermutation(String s, String target) {
-        // Step 1: Count character frequencies
         int[] cnt = new int[26];
         for(char c : s.toCharArray()) {
             cnt[c-'a']++;
         }
-        // Step 2: Validate if a palindrome is possible
         int oddcnt = 0;
         char oddch = 0;
         for(int i = 0; i < 26; i++) {
