@@ -21,12 +21,10 @@ class Solution {
         for(int i = 0; i < 26; i++) {
             halfcnt[i] = cnt[i]/2;
         }
-        // Step 3: Backtracking to find the valid first-half configuration
         char[] half = new char[halflen];
         if(!backtrack(half, 0, halfcnt, target, false, oddch, n)) {
             return "";
         }
-        // Step 4: Reconstruct the full palindrome string
         StringBuilder sb = new StringBuilder();
         sb.append(half);
         if(n%2 != 0) {
