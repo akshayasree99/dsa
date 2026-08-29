@@ -6,12 +6,9 @@ class Solution {
         for (int i = 0; i < n; i++) {
             pairs[i][0] = nums[i];
             pairs[i][1] = i;
-        }
-        
+        }       
         Arrays.sort(pairs, (a, b) -> Integer.compare(a[0], b[0]));
-        
         int[] result = new int[n];
-        
         int i = 0;
         while (i < n) {
             int j = i + 1;
