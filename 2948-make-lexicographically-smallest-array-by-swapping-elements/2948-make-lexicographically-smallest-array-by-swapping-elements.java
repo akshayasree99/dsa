@@ -21,14 +21,11 @@ class Solution {
                 indices[k] = pairs[i + k][1];
             }
             Arrays.sort(indices);
-            
             for (int k = 0; k < groupSize; k++) {
                 result[indices[k]] = pairs[i + k][0];
             }
-            
             i = j;
         }
-        
         return result;
     }
 }
