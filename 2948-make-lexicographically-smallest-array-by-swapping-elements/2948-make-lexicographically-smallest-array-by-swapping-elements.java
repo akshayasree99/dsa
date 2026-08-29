@@ -16,16 +16,13 @@ class Solution {
         
         int[] result = new int[n];
         
-        // Step 3: Identify connected components using a two-pointer approach
         int i = 0;
         while (i < n) {
             int j = i + 1;
-            // Extend the group as long as adjacent elements differ by <= limit
             while (j < n && pairs[j][0] - pairs[j - 1][0] <= limit) {
                 j++;
             }
             
-            // Extract the original indices for the current group
             int groupSize = j - i;
             int[] indices = new int[groupSize];
             for (int k = 0; k < groupSize; k++) {
