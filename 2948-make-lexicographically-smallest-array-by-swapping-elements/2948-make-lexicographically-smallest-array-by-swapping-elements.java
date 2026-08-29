@@ -32,15 +32,12 @@ class Solution {
                 indices[k] = pairs[i + k][1];
             }
             
-            // Sort the original indices to map the smallest values to the earliest indices
             Arrays.sort(indices);
             
-            // Place the sorted values back into the sorted original indices
             for (int k = 0; k < groupSize; k++) {
                 result[indices[k]] = pairs[i + k][0];
             }
             
-            // Move onto the next group
             i = j;
         }
         
