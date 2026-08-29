@@ -15,13 +15,11 @@ class Solution {
             while (j < n && pairs[j][0] - pairs[j - 1][0] <= limit) {
                 j++;
             }
-            
             int groupSize = j - i;
             int[] indices = new int[groupSize];
             for (int k = 0; k < groupSize; k++) {
                 indices[k] = pairs[i + k][1];
             }
-            
             Arrays.sort(indices);
             
             for (int k = 0; k < groupSize; k++) {
