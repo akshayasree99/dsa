@@ -1,10 +1,8 @@
 class Solution {
     public int minimumDeletions(int[] nums) {
         int n = nums.length;
-
         int minIndex = 0;
         int maxIndex = 0;
-
         for (int i = 1; i < n; i++) {
             if (nums[i] < nums[minIndex]) {
                 minIndex = i;
@@ -14,7 +12,6 @@ class Solution {
                 maxIndex = i;
             }
         }
-
         int removeFromFront = Math.max(minIndex, maxIndex) + 1;
         int removeFromBack = n - Math.min(minIndex, maxIndex);
         int removeFromBothSides = Math.min(
