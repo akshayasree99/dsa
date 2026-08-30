@@ -16,14 +16,11 @@ class Solution {
         }
 
         int removeFromFront = Math.max(minIndex, maxIndex) + 1;
-
         int removeFromBack = n - Math.min(minIndex, maxIndex);
-
         int removeFromBothSides = Math.min(
             minIndex + 1 + (n - maxIndex),
             maxIndex + 1 + (n - minIndex)
         );
-
         return Math.min(
             removeFromFront,
             Math.min(removeFromBack, removeFromBothSides)
