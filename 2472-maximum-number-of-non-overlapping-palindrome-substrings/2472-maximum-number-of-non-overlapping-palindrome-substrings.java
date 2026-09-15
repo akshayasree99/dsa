@@ -8,11 +8,9 @@ class Solution {
             helper(s , i , i , k); // odd len
             helper(s , i , i+1 , k); // even len
         }
-
         return count;
 
     }
-
     public void helper(String s  , int left , int right , int k){
         while(leftLimit <= left && left >= 0 && right < s.length() && s.charAt(left) == s.charAt(right)){
             int len = right-left+1;
@@ -21,7 +19,6 @@ class Solution {
                 leftLimit = right + 1;
                 break;
             }
-
             left--;
             right++;
         }
