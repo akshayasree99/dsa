@@ -1,3 +1,4 @@
+///////////////----------------
 class Solution {
     public long[] resultArray(int[] nums, int k) {
         long[] result = new long[k];
