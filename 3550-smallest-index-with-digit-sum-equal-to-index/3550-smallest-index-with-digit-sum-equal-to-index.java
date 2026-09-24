@@ -1,10 +1,8 @@
 class Solution {
     public int smallestIndex(int[] nums) {
         int ans=0;
-        for(int i=0;i<nums.length;i++)
-        {
-            if(sum(nums[i])==i)
-            {
+        for(int i=0;i<nums.length;i++){
+            if(sum(nums[i])==i) {
                 return i;
             }
         }
