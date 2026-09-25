@@ -24,18 +24,15 @@ class Solution {
 
         return new ArrayList<>(ans);
     }
-
     void merge(List<List<String>> groups, List<String> group) {
         if (groups.get(groups.size() - 1).isEmpty()) {
             groups.set(groups.size() - 1, group);
             return;
         }
         List<String> mergedGroup = new ArrayList<>();
-
         for (final String word1 : groups.get(groups.size() - 1))
             for (final String word2 : group)
                 mergedGroup.add(word1 + word2);
-
         groups.set(groups.size() - 1, mergedGroup);
     }
 }
