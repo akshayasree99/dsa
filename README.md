@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/akshayasree99/dsa/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/akshayasree99/dsa/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/akshayasree99/dsa/tree/master/0992-subarrays-with-k-different-integers) |
+| [1096-brace-expansion-ii](https://github.com/akshayasree99/dsa/tree/master/1096-brace-expansion-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/akshayasree99/dsa/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/akshayasree99/dsa/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/akshayasree99/dsa/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/akshayasree99/dsa/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/akshayasree99/dsa/tree/master/0628-maximum-product-of-three-numbers) |
 | [1029-two-city-scheduling](https://github.com/akshayasree99/dsa/tree/master/1029-two-city-scheduling) |
+| [1096-brace-expansion-ii](https://github.com/akshayasree99/dsa/tree/master/1096-brace-expansion-ii) |
 | [1288-remove-covered-intervals](https://github.com/akshayasree99/dsa/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/akshayasree99/dsa/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/akshayasree99/dsa/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -299,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/akshayasree99/dsa/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/akshayasree99/dsa/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/akshayasree99/dsa/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/akshayasree99/dsa/tree/master/1096-brace-expansion-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/akshayasree99/dsa/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/akshayasree99/dsa/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/akshayasree99/dsa/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -391,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/akshayasree99/dsa/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/akshayasree99/dsa/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0994-rotting-oranges](https://github.com/akshayasree99/dsa/tree/master/0994-rotting-oranges) |
+| [1096-brace-expansion-ii](https://github.com/akshayasree99/dsa/tree/master/1096-brace-expansion-ii) |
 | [2258-escape-the-spreading-fire](https://github.com/akshayasree99/dsa/tree/master/2258-escape-the-spreading-fire) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/akshayasree99/dsa/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/akshayasree99/dsa/tree/master/2685-count-the-number-of-complete-components) |
@@ -466,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/akshayasree99/dsa/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/akshayasree99/dsa/tree/master/0145-binary-tree-postorder-traversal) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/akshayasree99/dsa/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/akshayasree99/dsa/tree/master/1096-brace-expansion-ii) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -542,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/akshayasree99/dsa/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [1096-brace-expansion-ii](https://github.com/akshayasree99/dsa/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/akshayasree99/dsa/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Minimax
 |  |
