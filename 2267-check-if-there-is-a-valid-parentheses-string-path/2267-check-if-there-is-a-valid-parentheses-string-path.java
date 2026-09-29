@@ -1,31 +1,24 @@
 /////////////////---------------------------------
 class Solution {
     static Boolean[][][] memo;
-
     public boolean hasValidPath(char[][] grid) {
         int rows = grid.length;
         int cols = grid[0].length;
-
         if (grid[0][0] == ')' || grid[rows - 1][cols - 1] == '(') {
             return false;
         }
-
         if ((rows + cols - 1) % 2 != 0) {
             return false;
         }
-
         memo = new Boolean[101][101][201];
-
         return search(grid, 0, 0, 0);
     }
-
     private boolean search(char[][] grid, int row, int col, int balance) {
         if (grid[row][col] == '(') {
             balance++;
         } else {
             balance--;
         }
-
         if (balance < 0) {
             return false;
         }
