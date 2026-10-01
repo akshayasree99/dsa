@@ -301,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/akshayasree99/dsa/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/akshayasree99/dsa/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/akshayasree99/dsa/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/akshayasree99/dsa/tree/master/0020-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/akshayasree99/dsa/tree/master/0044-wildcard-matching) |
 | [0115-distinct-subsequences](https://github.com/akshayasree99/dsa/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/akshayasree99/dsa/tree/master/0940-distinct-subsequences-ii) |
@@ -475,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/akshayasree99/dsa/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/akshayasree99/dsa/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/akshayasree99/dsa/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/akshayasree99/dsa/tree/master/0145-binary-tree-postorder-traversal) |
@@ -606,6 +608,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/akshayasree99/dsa/tree/master/0020-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/akshayasree99/dsa/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/akshayasree99/dsa/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/akshayasree99/dsa/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
