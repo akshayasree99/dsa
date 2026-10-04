@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/akshayasree99/dsa/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0435-non-overlapping-intervals](https://github.com/akshayasree99/dsa/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/akshayasree99/dsa/tree/master/0486-predict-the-winner) |
+| [0678-valid-parenthesis-string](https://github.com/akshayasree99/dsa/tree/master/0678-valid-parenthesis-string) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/akshayasree99/dsa/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0877-stone-game](https://github.com/akshayasree99/dsa/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/akshayasree99/dsa/tree/master/0940-distinct-subsequences-ii) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/akshayasree99/dsa/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/akshayasree99/dsa/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/akshayasree99/dsa/tree/master/0455-assign-cookies) |
+| [0678-valid-parenthesis-string](https://github.com/akshayasree99/dsa/tree/master/0678-valid-parenthesis-string) |
 | [1029-two-city-scheduling](https://github.com/akshayasree99/dsa/tree/master/1029-two-city-scheduling) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/akshayasree99/dsa/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/akshayasree99/dsa/tree/master/1386-cinema-seat-allocation) |
@@ -306,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/akshayasree99/dsa/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/akshayasree99/dsa/tree/master/0044-wildcard-matching) |
 | [0115-distinct-subsequences](https://github.com/akshayasree99/dsa/tree/master/0115-distinct-subsequences) |
+| [0678-valid-parenthesis-string](https://github.com/akshayasree99/dsa/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/akshayasree99/dsa/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/akshayasree99/dsa/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/akshayasree99/dsa/tree/master/1096-brace-expansion-ii) |
@@ -483,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/akshayasree99/dsa/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/akshayasree99/dsa/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/akshayasree99/dsa/tree/master/0145-binary-tree-postorder-traversal) |
+| [0678-valid-parenthesis-string](https://github.com/akshayasree99/dsa/tree/master/0678-valid-parenthesis-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/akshayasree99/dsa/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/akshayasree99/dsa/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/akshayasree99/dsa/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -613,6 +617,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/akshayasree99/dsa/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/akshayasree99/dsa/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/akshayasree99/dsa/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/akshayasree99/dsa/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/akshayasree99/dsa/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/akshayasree99/dsa/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
