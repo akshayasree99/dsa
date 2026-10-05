@@ -1,3 +1,4 @@
+///////////////-----------------------
 class Solution {
     public int scoreOfParentheses(String s) {
         int depth = 0, score = 0;
