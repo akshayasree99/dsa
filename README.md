@@ -310,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/akshayasree99/dsa/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/akshayasree99/dsa/tree/master/0044-wildcard-matching) |
 | [0115-distinct-subsequences](https://github.com/akshayasree99/dsa/tree/master/0115-distinct-subsequences) |
+| [0301-remove-invalid-parentheses](https://github.com/akshayasree99/dsa/tree/master/0301-remove-invalid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/akshayasree99/dsa/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/akshayasree99/dsa/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/akshayasree99/dsa/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -411,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/akshayasree99/dsa/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/akshayasree99/dsa/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0207-course-schedule](https://github.com/akshayasree99/dsa/tree/master/0207-course-schedule) |
+| [0301-remove-invalid-parentheses](https://github.com/akshayasree99/dsa/tree/master/0301-remove-invalid-parentheses) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/akshayasree99/dsa/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/akshayasree99/dsa/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0994-rotting-oranges](https://github.com/akshayasree99/dsa/tree/master/0994-rotting-oranges) |
@@ -576,6 +578,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/akshayasree99/dsa/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0301-remove-invalid-parentheses](https://github.com/akshayasree99/dsa/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/akshayasree99/dsa/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/akshayasree99/dsa/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Minimax
